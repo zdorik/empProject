@@ -1,0 +1,9 @@
+[submodule "empEJB"]
+	path = empEJB
+	url = git@github.com:zdorik/empEJB.git
+[submodule "empWeb"]
+	path = empWeb
+	url = git@github.com:zdorik/empWeb.git
+[submodule "emp"]
+	path = emp
+	url = git@github.com:zdorik/emp.git
